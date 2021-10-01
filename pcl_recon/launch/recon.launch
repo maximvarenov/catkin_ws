@@ -1,0 +1,9 @@
+<launch>
+ 
+
+    <node pkg="pcl_recon" type="pcl_recon" name="pcl_recon"/>
+
+    <node pkg="drawing" type="drawing" name="drawing"/>
+   
+
+</launch>
